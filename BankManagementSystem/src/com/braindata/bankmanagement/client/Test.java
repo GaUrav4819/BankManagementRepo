@@ -49,7 +49,7 @@ public class Test {
 	     System.out.println("  Want to continue......");
 	     int t=sc.nextInt();
 	      n=t;
-	      }      //end of while
+	      }      //end of while  loop
     }
 }
 
